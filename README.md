@@ -1,1 +1,5 @@
-# prueba
+-Javier de Lorenzo 
+-Ingeniería Informática 1ºB
+-Descripción: Este es el trabajo web individual de Javier de Lorenzo. Consta de 6 partes, el índice y 5 subpáginas. Se pueden acceder a dichas subpáginas utilizando el menú que se encuentra en la parte superior de cada página, además de que permite volver al índice.
+-Problemas: He tenido problemas a la hora de crear el menú y conectar el archivo INDEX.html con el resto de secciones de la página, además de problemas para meter imágenes.
+-Conclusión: No es una página web especialmente bonita pero no tiene fallos, funciona a la perfección y contiene el contenido requerido.
